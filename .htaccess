@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteBase /
+
+RewriteRule ^award$ /award.php [L]
+RewriteRule ^update$ /update.php [L]
